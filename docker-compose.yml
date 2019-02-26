@@ -15,6 +15,7 @@ services:
  
   nginx:
     image: jwilder/nginx-proxy
+
     ports:
       - 80:80
     volumes:
@@ -23,6 +24,11 @@ services:
       - wp-proxy
  
   wp:
+
+    build:
+     context: ./html
+     dockerfile: Dockerfile
+
     image: wordpress:4.7
     volumes:
       - ./html:/var/www/html
