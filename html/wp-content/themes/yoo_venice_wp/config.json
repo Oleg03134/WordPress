@@ -36,7 +36,7 @@
 	"tracking_code": "",
 	"layouts": {
 		"default": {
-			"style": "default",
+			"style": "yellow-dark",
 			"fixed_navigation": "1",
 			"content_padding": "1",
 			"article_boxed": "1",
@@ -1139,15 +1139,7 @@
 		"nav_menu-8": {
 			"title": "1",
 			"assignment": {
-				"0": "",
-				"1": "page-110",
-				"2": "page-112",
-				"3": "page-90",
-				"4": "page-115",
-				"5": "page-117",
-				"6": "page-120",
-				"7": "page-88",
-				"8": "page-92"
+				"0": ""
 			},
 			"class": "",
 			"panel": "",
@@ -1338,60 +1330,6 @@
 			"subtitle": ""
 		},
 		"100": {
-			"icon": "",
-			"subtitle": ""
-		},
-		"101": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"102": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"103": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"104": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"126": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"127": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"128": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"129": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
-		"130": {
-			"columns": "1",
-			"columnwidth": "",
 			"icon": "",
 			"subtitle": ""
 		},
