@@ -37,7 +37,8 @@
 	"layouts": {
 		"default": {
 			"style": "yellow-dark",
-			"navbar_fullscreen_contrast": "1",
+			"fixed_navigation": "1",
+			"centered_logo": "1",
 			"page_title": "0",
 			"content_padding": "1",
 			"article_boxed": "1",
@@ -100,7 +101,7 @@
 			}
 		},
 		"frontpage": {
-			"style": "default",
+			"style": "yellow-dark",
 			"fixed_navigation": "1",
 			"centered_logo": "1",
 			"navbar_fullscreen_contrast": "1",
@@ -175,7 +176,7 @@
 			}
 		},
 		"layouts": {
-			"style": "default",
+			"style": "yellow-dark",
 			"fixed_navigation": "1",
 			"content_padding": "1",
 			"article_boxed": "1",
@@ -248,7 +249,7 @@
 			}
 		},
 		"articles": {
-			"style": "default",
+			"style": "yellow-dark",
 			"fixed_navigation": "1",
 			"content_padding": "1",
 			"sidebars": {
@@ -313,7 +314,7 @@
 			}
 		},
 		"pages": {
-			"style": "default",
+			"style": "yellow-dark",
 			"fixed_navigation": "1",
 			"navbar_fullscreen_contrast": "1",
 			"page_title": "0",
@@ -435,6 +436,12 @@
 			"assignment": {
 				"0": "",
 				"1": "page-840"
+			}
+		},
+		"widgetkit-6": {
+			"assignment": {
+				"0": "",
+				"1": "*"
 			}
 		},
 		"text-8": {
@@ -1324,12 +1331,6 @@
 			"icon": "",
 			"subtitle": ""
 		},
-		"786": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
 		"812": {
 			"columns": "1",
 			"columnwidth": "",
@@ -1430,12 +1431,6 @@
 			"icon": "",
 			"subtitle": ""
 		},
-		"993": {
-			"columns": "1",
-			"columnwidth": "",
-			"icon": "",
-			"subtitle": ""
-		},
 		"994": {
 			"icon": "",
 			"subtitle": ""
@@ -1445,6 +1440,12 @@
 			"subtitle": ""
 		},
 		"996": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"1015": {
+			"columns": "1",
+			"columnwidth": "",
 			"icon": "",
 			"subtitle": ""
 		}
