@@ -38,7 +38,6 @@
 		"default": {
 			"style": "yellow-dark",
 			"fixed_navigation": "1",
-			"centered_logo": "1",
 			"page_title": "0",
 			"content_padding": "1",
 			"article_boxed": "1",
@@ -103,8 +102,6 @@
 		"frontpage": {
 			"style": "yellow-dark",
 			"fixed_navigation": "1",
-			"centered_logo": "1",
-			"navbar_fullscreen_contrast": "1",
 			"no_pagination": "0",
 			"article_style": "tm-article-blog",
 			"content_padding": "1",
@@ -316,7 +313,6 @@
 		"pages": {
 			"style": "yellow-dark",
 			"fixed_navigation": "1",
-			"navbar_fullscreen_contrast": "1",
 			"page_title": "0",
 			"content_padding": "1",
 			"sidebars": {
